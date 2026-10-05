@@ -1,0 +1,2 @@
+:HL["/cooley-collective-demo/_next/static/chunks/17gls5io-6ixe.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"6rCfXg68IjbUpRZo2-56b"}
